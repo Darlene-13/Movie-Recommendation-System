@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System Backend
+# 🎬 Movie Recommendation System
 ## Enterprise-Level Movie Discovery Platform
 
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://python.org)
